@@ -1,0 +1,8 @@
+C:\Users\artur\source\repos\HomeWorkGame\HomeWorkGame\bin\Debug\HomeWorkGame.exe.config
+C:\Users\artur\source\repos\HomeWorkGame\HomeWorkGame\bin\Debug\HomeWorkGame.exe
+C:\Users\artur\source\repos\HomeWorkGame\HomeWorkGame\bin\Debug\HomeWorkGame.pdb
+C:\Users\artur\source\repos\HomeWorkGame\HomeWorkGame\obj\Debug\HomeWorkGame.csproj.AssemblyReference.cache
+C:\Users\artur\source\repos\HomeWorkGame\HomeWorkGame\obj\Debug\HomeWorkGame.csproj.SuggestedBindingRedirects.cache
+C:\Users\artur\source\repos\HomeWorkGame\HomeWorkGame\obj\Debug\HomeWorkGame.csproj.CoreCompileInputs.cache
+C:\Users\artur\source\repos\HomeWorkGame\HomeWorkGame\obj\Debug\HomeWorkGame.exe
+C:\Users\artur\source\repos\HomeWorkGame\HomeWorkGame\obj\Debug\HomeWorkGame.pdb
